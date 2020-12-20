@@ -9,7 +9,10 @@ The values on Orders sheet; demographic, revenue per unit, device expense per un
 
 ## Pivot Table
 The final values on Orders sheet are summarized by creating Pivot tables.
-![](Images/Pivot Tables.png)
+
+![](Images/Pivot%20Tables.png)
+
 
 ## Dashboard
 The visualized Pivot tables are put under the sheet Dashboard to make it easier to show the results of the analysis.
+![](Images/Dashboard.png)
